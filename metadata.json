@@ -1,0 +1,6 @@
+{
+  "name": "Rising Frank in Guest House Islamabad",
+  "description": "Official website for Rising Frank in Guest House Islamabad offering comfortable accommodation, modern amenities, and warm hospitality in Sector G-9/4, Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
